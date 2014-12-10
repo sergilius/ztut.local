@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteBase / 
+
+RewriteRule .*$ public/index.php [L]
